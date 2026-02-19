@@ -88,7 +88,7 @@ zaixianhuatu/
 
 1. 将所有文件上传到服务器
 2. 配置 nginx 指向项目目录
-3. 配置域名解析（部署示例：zaixianhuatu.org）
+3. 配置域名解析（部署示例：zaixianhuatu.itzhouq.cn）
 
 无需任何构建步骤或后端服务（除保存图片功能外）。
 

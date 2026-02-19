@@ -885,8 +885,8 @@ $('#mnHelp div').click(function () {
             case "mnHelphelp": //WebPhotoshop帮助
                 window.open("Code/Help.htm");
                 break;
-            case "mnHelphelpsite": //WebPhotoshop网站
-                window.open("https://zaixianhuatu.org");
+            case "mnHelphelpsite": //WebPhotoswhop网站
+                window.open("https://zaixianhuatu.itzhouq.cn");
                 break;
             case "mnHelpabout": //关于WebPhotoshop
                 showMyWindow('icon-about', '关于WebPhotoshop', 'Code/About.htm', 600, 400, true, false, false, true);
