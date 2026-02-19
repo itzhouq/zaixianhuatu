@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-http://zaixianhuatu.org
+http://zaixianhuatu.itzhouq.cn
 
 ## 部署步骤
 
@@ -14,6 +14,3 @@ http://zaixianhuatu.org
 - 部署到nginx
 - 域名解析
 
-## 视频教程
-
-[搬瓦工vps搭建在线画图网站](https://www.youtube.com/watch?v=tXeFDaRQwDc&t=265s)
