@@ -1,0 +1,11 @@
+# robots.txt for zaixianhuatu.itzhouq.cn
+
+User-agent: *
+Allow: /
+
+# 禁止爬取临时文件和系统目录
+Disallow: /JScript/
+Disallow: /Code/
+
+# 站点地图
+Sitemap: https://zaixianhuatu.itzhouq.cn/sitemap.xml
