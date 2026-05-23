@@ -2,12 +2,8 @@
   "version": 2,
   "public": true,
   "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
+  "buildCommand": "cp -r CSS Code Images JScript index.html public/",
+  "outputDirectory": "public",
   "headers": [
     {
       "source": "/JScript/(.*)",
